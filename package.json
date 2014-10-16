@@ -4,6 +4,7 @@
   "description": "Quick packager-agnostic boilerplate for React modules using JSX",
   "main": "lib/index.js",
   "dependencies": {
+    "flux": "^2.0.0",
     "react": "~0.8",
     "statics-stylesheets": "~0.0.1",
     "stylesheets": "~0.0.3"
